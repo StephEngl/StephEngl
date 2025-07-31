@@ -1,4 +1,4 @@
-<p align="left">Hi there! 👋<br>I'm a passionate Frontend Developer on an exciting journey to become a Fullstack Engineer.<br>Right now, I'm diving into Python and Django to expand my skills and build awesome web applications.<br><br>Always eager to learn, grow, and create something amazing! 🚀</p>
+<p align="left">Hi there! 👋<br>I'm a dedicated Software Engineer with a background in Automotive and Engine Technology. After working as a Test Engineer, I've transitioned into the world of software development—currently specializing in Frontend and ambitiously expanding towards Fullstack development.<br><br>I’m passionate about learning new things, especially when it comes to science and technology. These days, I'm diving deep into Python and Django, while building web applications with Angular 17<br><br>Always eager to learn, grow, and create something amazing! 🚀</p>
 
 ###
 
