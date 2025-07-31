@@ -1,4 +1,4 @@
-<p align="left">Hey there! 👋<br>I'm a dedicated Software Engineer with a background in Automotive and Engine Technology. After many years working as a Test Engineer, I've transitioned into the world of software development—currently specializing in Frontend and ambitiously expanding towards Fullstack development.<br><br>I’m passionate about learning new things, especially when it comes to science and technology. These days, I'm diving deep into Python and Django, while building web applications with Angular 17, Visual Basic (in Visual Studio 2022), and leveraging PyCharm and Anaconda for my Python projects.<br><br>Beyond my professional journey, I'm a proud mom who loves to explore, experiment, and discover. I believe continuous learning is the key to growth—whether it’s coding, engineering, or the wonders of everyday science!<br><br>Let’s connect and create something amazing together! 🚀</p>
+<p align="left">Hey there! 👋<br>I'm a dedicated Software Engineer with a background in Automotive and Engine Technology. After many years working as a Test Engineer, I've transitioned into the world of software development—currently specializing in Frontend and ambitiously expanding towards Fullstack development.<br><br>I’m passionate about learning new things, especially when it comes to science and technology. These days, I'm diving deep into Python and Django, while building web applications with Angular 17, Visual Basic (in Visual Studio 2022), and leveraging PyCharm and Anaconda for my Python projects.<br><br>I love to explore, experiment, and discover. I believe continuous learning is the key to growth—whether it’s coding, engineering, or the wonders of everyday science!<br><br>Let’s connect and create something amazing together! 🚀</p>
 
 ###
 
@@ -19,8 +19,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
@@ -39,10 +37,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephEngl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/StephEngl/StephEngl/output/snake.svg" alt="Snake animation" />
 
 ###
 
