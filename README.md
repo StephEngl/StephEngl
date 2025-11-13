@@ -4,17 +4,13 @@
   <img src="assets/hero/teamwork.png" height="140" alt="Teamworking image"  />
 </div>
 
+## About me
+
 <p align="left">Hi there! 👋<br>I'm a dedicated Software Engineer with a background in Automotive and Engine Technology. After working as a Test Engineer, I've transitioned into the world of software development—currently specializing in Frontend and ambitiously expanding towards Fullstack development.<br><br>I’m passionate about learning new things, especially when it comes to science and technology. These days, I'm diving deep into Python and Django, while building web applications with Angular 17.<br><br>Always eager to learn, grow, and create something amazing! 🚀</p>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephEngl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
+## My Tech Stack
 
 <br clear="both">
 
@@ -43,6 +39,19 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/StephEngl/StephEngl/output/snake.svg" alt="Snake animation" />
+## GitHub Stats
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephEngl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+</div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/StephEngl/StephEngl/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
