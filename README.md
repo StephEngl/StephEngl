@@ -1,14 +1,24 @@
-<h1 align="center">Stephanie Englberger | Full-Stack-Developer</h1>
+<h1 align="center">Stephanie Englberger - Full-Stack-Developer</h1>
+ <p align="center" font-size="16px">Dipl.-Ing</p>
+<!-- <div align="center">
+  <h1 style="border-bottom:none">
+    Stephanie Englberger - Full-Stack-Developer
+  </h1>
+  <span style="font-size:14px; display:block; margin-top:-8px;">Dipl.-Ing</span>
+  <hr style="width:60px; margin:8px auto 0;">
+</div> -->
+
+<br clear="both">
 
 <div align="center">
-  <img src="assets/hero/teamwork.png" height="140" alt="Teamworking image"  />
+  <img src="assets/hero/teamwork.png" height="300" alt="Teamworking image"  />
 </div>
 
 ## About me
 
 <p align="left">Hi there! 👋<br>I'm a dedicated Software Engineer with a background in Automotive and Engine Technology. After working as a Test Engineer, I've transitioned into the world of software development—currently specializing in Frontend and ambitiously expanding towards Fullstack development.<br><br>I’m passionate about learning new things, especially when it comes to science and technology. These days, I'm diving deep into Python and Django, while building web applications with Angular 17.<br><br>Always eager to learn, grow, and create something amazing! 🚀</p>
 
-###
+<br clear="both">
 
 ## My Tech Stack
 
@@ -37,8 +47,6 @@
   <img width="12" />
 </div>
 
-###
-
 ## GitHub Stats
 
 <br clear="both">
@@ -46,8 +54,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StephEngl&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/StephEngl/StephEngl/output/snake.svg" alt="Snake animation" />
