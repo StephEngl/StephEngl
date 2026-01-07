@@ -1,4 +1,4 @@
-<h1 align="center">Stephanie Englberger - Full-Stack-Developer</h1>
+<h1 align="center">Stephanie Englberger - Web-Developer</h1>
  <p align="center" font-size="16px">Dipl.-Ing</p>
 <!-- <div align="center">
   <h1 style="border-bottom:none">
